@@ -5,7 +5,7 @@ body{
    font-family: sans-serif;
    display: flex;
    justify-content: center;
-   align-items: center;
+   
    width: 100%;
    min-height: 100vh;
    overflow: hidden;
@@ -13,8 +13,8 @@ body{
 
 a{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 100%;
+    left: 100%;
     transform: translate(-50%,-50%);
     color:#1670f0;
     padding: 130px 150px 130px 200px;

@@ -11,10 +11,15 @@ body{
    overflow: hidden;
 }
 
+#cen
+{
+    align-items: center;
+}
+
 a{
     position: absolute;
-    top: 100%;
-    left: 100%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%,-50%);
     color:#1670f0;
     padding: 130px 150px 130px 200px;

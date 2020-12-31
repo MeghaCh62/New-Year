@@ -17,7 +17,7 @@ a{
     left: 50%;
     transform: translate(-50%,-50%);
     color:#1670f0;
-    padding: 130px 150px;
+    padding: 130px 150px 130px 200px;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -25,6 +25,7 @@ a{
     box-shadow: 0 20px 50px rgb(0, 0, 0, .5);
     overflow: hidden;
     font-size: 50px;
+    align-items: center;
 }
 
 a::before
